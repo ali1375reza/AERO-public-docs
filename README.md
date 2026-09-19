@@ -27,6 +27,8 @@ Raw PDFs, logs, configuration files, and implementation archives remain outside 
 | Five-minute overview | [Project status](PROJECT_STATUS.md) |
 | Persian overview | [خلاصهٔ فارسی](README.fa.md) |
 | Full origin and history | [Project history](docs/01_HISTORY_THROUGH_10_SHAHRIVAR.md) |
+| Supplemental packet review | [4–17 Shahrivar review](docs/10_SUPPLEMENTAL_HISTORY_04_TO_17_SHAHRIVAR.md) |
+| Additional source register | [Sources reviewed on 28 Shahrivar](docs/11_ADDITIONAL_SOURCE_REGISTER_28_SHAHRIVAR.md) |
 | Public architecture | [Public architecture](docs/02_PUBLIC_ARCHITECTURE.md) |
 | Evidence rules | [Evidence methodology](docs/03_EVIDENCE_METHODOLOGY.md) |
 | Results and limits | [Validation results](docs/04_VALIDATION_RESULTS.md) |
@@ -42,6 +44,8 @@ Raw PDFs, logs, configuration files, and implementation archives remain outside 
 - The current direction is G5C exact accounting, then paper-profit validation, then a bounded simulation/evidence loop.
 - No repeatable live capture, signed transaction, broadcast, or realized profit is claimed here.
 
+The additional source packet reviewed on 28 Shahrivar is summarized separately. Its latest explicit dated window is earlier than 28 Shahrivar; missing daily events are not inferred.
+
 ## Evidence language
 
 `PROVEN` means the stated test passed within its stated evidence class. `SUPPORTED` means several independent observations support the claim but a stronger gate remains. `NOT_OBSERVED` means the relevant opportunity did not occur in the observation window. `NOT_PROVEN` means the project has not yet collected the evidence required for the claim.
@@ -53,4 +57,3 @@ Historical notes use AERO-LAB, FAST_ROTATION_50, and ATOMIC_HUNTER_50. These are
 ## License and ownership
 
 See [NOTICE.md](NOTICE.md). The public record does not grant rights to proprietary software, algorithms, data, or execution infrastructure.
-

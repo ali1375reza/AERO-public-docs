@@ -2,6 +2,8 @@
 
 **Public cut-off for the historical backfill:** 2026-09-01 (10 Shahrivar 1405)
 
+**Supplemental packet review:** 2026-09-19 (28 Shahrivar 1405). The packet's latest explicit dated window is earlier than this review date; see the [supplemental history](docs/10_SUPPLEMENTAL_HISTORY_04_TO_17_SHAHRIVAR.md).
+
 **Current update layer:** post-cutoff G5 accounting and paper-profit work is listed separately in [the current-status note](docs/09_CURRENT_STATUS_POST_CUTOFF.md).
 
 ## Executive status
@@ -16,6 +18,7 @@
 | Live competitive capture | NOT_PROVEN | No repeated real trigger capture has been demonstrated. |
 | Signed transaction / broadcast | NOT_CLAIMED | Public evidence remains read-only or shadow-only. |
 | Realized profit | NOT_PROVEN | No realized net-profit series exists. |
+| Supplemental source packet | REVIEWED / SUMMARIZED | Ten private PDFs were reconciled; raw files and implementation details remain private. |
 
 ## Phase position
 
@@ -26,6 +29,8 @@ The historical line is:
 The next controlled sequence is:
 
 `exact accounting → paper profit → bounded simulation/evidence → longer evidence window → controlled readiness review`
+
+The supplemental packet adds historical reliability and recovery evidence but does not move any execution or profitability gate to PASS.
 
 ## What is encouraging
 
@@ -42,4 +47,3 @@ The next controlled sequence is:
 - longer, reproducible operational evidence;
 - a controlled custody, kill-switch, cap, and monitoring design;
 - market validation for licensing.
-

@@ -3,10 +3,14 @@
   "aliases": ["aria", "ATOMIC_HUNTER"],
   "repository_role": "public-documentation-only",
   "historical_cutoff": "2026-09-01",
+  "supplemental_packet_review_date": "2026-09-19",
+  "supplemental_packet_latest_explicit_window": "Earlier than 2026-09-19; latest supplied short report states a window ending 2026-09-16",
+  "supplemental_packet_source_count": 10,
   "current_phase": "G5C exact accounting and paper-profit preparation",
   "execution_publicly_enabled": false,
   "realized_profit_proven": false,
   "live_competitive_capture_proven": false,
+  "supplemental_packet_public_summary": "docs/10_SUPPLEMENTAL_HISTORY_04_TO_17_SHAHRIVAR.md",
   "g5b2_on_chain_health_validation": "recorded-complete",
   "g5b3_multi_candidate_ranker": "preliminary-output-reviewed-for-unit-normalization",
   "evidence_classes": ["modeled", "historical", "shadow", "realized"],
@@ -26,4 +30,3 @@
     "reconstructable execution details"
   ]
 }
-
