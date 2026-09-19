@@ -1,0 +1,20 @@
+# The public repository is documentation-only.
+# Keep implementation and secrets out even if copied locally by mistake.
+src/
+contracts/
+scripts/
+*.py
+*.sol
+*.js
+*.ts
+*.env
+*.key
+*.pem
+secrets/
+private/
+raw-logs/
+*.log
+*.sqlite
+*.db
+tmp/
+
