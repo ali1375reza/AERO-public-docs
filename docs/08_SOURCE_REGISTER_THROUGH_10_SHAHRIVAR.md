@@ -23,3 +23,6 @@ The following private source documents were used to reconstruct the public histo
 
 The public repository should never be treated as a byte-for-byte copy of the private engineering archive.
 
+## Later source packet
+
+The additional ten-file packet reviewed on 28 Shahrivar is recorded in the [supplemental source register](11_ADDITIONAL_SOURCE_REGISTER_28_SHAHRIVAR.md) and summarized in the [supplemental history](10_SUPPLEMENTAL_HISTORY_04_TO_17_SHAHRIVAR.md). The raw PDFs remain private.

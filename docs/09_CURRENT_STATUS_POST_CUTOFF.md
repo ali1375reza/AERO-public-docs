@@ -22,3 +22,6 @@ The project then moved from “which positions are close?” to “can debt, int
 - Autonomous atomic simulation/evidence bridge: **BLOCKED / next gate**.
 - Live execution and realized profit: **NOT_PROVEN**.
 
+## Additional packet review on 28 Shahrivar
+
+The newly reviewed packet strengthens the public record of five-market Shadow reliability, provider failure analysis, exact-state validation, and recovery work. It does not supersede the G5C direction above and does not change any execution or profitability gate. See the [supplemental history](10_SUPPLEMENTAL_HISTORY_04_TO_17_SHAHRIVAR.md) and [source register](11_ADDITIONAL_SOURCE_REGISTER_28_SHAHRIVAR.md).
